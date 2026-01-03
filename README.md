@@ -7,6 +7,15 @@
 
 Soy **Matemático** de formación, en transición hacia la **Ciencia de Datos**, con especial interés en el **análisis de datos**, el **modelado estadístico** y el **aprendizaje automático** aplicado a problemas reales.
 
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" />
+</p>
+
+
 Actualmente trabajo en proyectos relacionados con:
 - Análisis exploratorio de datos (EDA)
 - Modelos de Machine Learning clásicos
@@ -56,8 +65,8 @@ Actualmente trabajo en proyectos relacionados con:
 ---
 
 ## 📫 Contacto
-- LinkedIn: [tu-linkedin]
-- Email: [tu-email]
+- LinkedIn: [https://www.linkedin.com/in/luis-javier-rubio-h-039a06361/]
+- Email: [luisjrubioh@gmail.com]
 
 
 <!--
