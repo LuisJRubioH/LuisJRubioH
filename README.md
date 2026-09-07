@@ -5,7 +5,13 @@
 
 # 👋 Hola, soy Luis
 
-Soy **Matemático** de formación, en transición hacia la **Ciencia de Datos**, con especial interés en el **análisis de datos**, el **modelado estadístico** y el **aprendizaje automático** aplicado a problemas reales.
+Soy matemático, tengo una Maestría en Matemáticas y actualmente estoy cursando una Maestría en Ciencia de Datos.
+
+Mi trabajo se centra en el análisis de datos, la modelación estadística, los datos educativos y el desarrollo de soluciones reproducibles basadas en datos utilizando Python, SQL, Power BI y herramientas relacionadas.
+
+Mi perfil combina rigor matemático y estadístico con varios años de experiencia en educación superior. Me interesan especialmente los proyectos en los que los datos pueden apoyar la toma de decisiones, particularmente en contextos educativos y sociales.
+
+Aquí encontrarás proyectos relacionados con análisis de datos, pipelines de ETL, modelación estadística, bases de datos, dashboards, APIs, automatización y aprendizaje automático aplicado.
 
 Actualmente trabajo en proyectos relacionados con:
 - Análisis exploratorio de datos (EDA)
