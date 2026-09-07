@@ -13,11 +13,6 @@ Mi perfil combina rigor matemático y estadístico con varios años de experienc
 
 Aquí encontrarás proyectos relacionados con análisis de datos, pipelines de ETL, modelación estadística, bases de datos, dashboards, APIs, automatización y aprendizaje automático aplicado.
 
-Actualmente trabajo en proyectos relacionados con:
-- Análisis exploratorio de datos (EDA)
-- Modelos de Machine Learning clásicos
-- Visualización y comunicación de resultados
-- Enseñanza de matemáticas y ciencia de datos
 
 
 ## 🧠 Áreas de interés
