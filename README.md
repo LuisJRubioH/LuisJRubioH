@@ -110,6 +110,8 @@ Aquí encontrarás proyectos relacionados con análisis de datos, pipelines de E
 
 ## 🚀 Proyectos Destacados
 
+Proyectos aplicados en analítica educativa, ciencia de datos, modelado estadístico y desarrollo de soluciones basadas en datos.
+
 | Proyecto | Descripción | Competencias / Stack | Estado |
 |----------|-------------|----------------------|--------|
 | **[Predicción de deserción — OULAD](https://github.com/Ori-G-A/prediccion-desercion-oulad)** | Proyecto de grado de Maestría en Ciencia de Datos orientado a identificar riesgo de deserción estudiantil mediante análisis exploratorio, calidad de datos, ingeniería de variables, clasificación supervisada e interpretabilidad de modelos | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat-square&logo=scikitlearn) ![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=flat-square) `EDA` `Data Quality` `Feature Engineering` `CRISP-DM` | 🔄 Proyecto de grado en curso |
