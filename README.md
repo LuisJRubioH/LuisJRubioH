@@ -48,12 +48,13 @@ Aquí encontrarás proyectos relacionados con análisis de datos, pipelines de E
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧠 Deep Learning
+<!--- stats (end)  ### 🧠 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)-->
 
+<!--- stats (end) 
 ### 🧠💬 Modelos de lenguaje y NLP
-![🤗_Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![🤗_Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)-->
 
 
 ### 👩‍💻 IDE
@@ -109,12 +110,12 @@ Aquí encontrarás proyectos relacionados con análisis de datos, pipelines de E
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Stack Principal | Estado |
-|----------|-------------|-----------------|---------|
-| **[LevelUp-ELO](https://github.com/LuisJRubioH/LevelUp-ELO)** | Plataforma educativa adaptativa con modelación ELO, selección inteligente de retos y analítica del progreso estudiantil | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) | ✅ Funcional / en evolución |
-| **[Predicción de deserción — OULAD](https://github.com/Ori-G-A/prediccion-desercion-oulad)** | Proyecto colaborativo para identificar riesgo de deserción estudiantil mediante análisis de datos, clasificación supervisada e interpretabilidad de modelos | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat-square&logo=scikitlearn) ![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=flat-square) | 🔄 En curso |
-| **[Proyectos-Portafolio](https://github.com/LuisJRubioH/Proyectos-Portafolio)** | Colección de análisis exploratorios sobre datasets de distintos dominios, enfocados en calidad de datos, patrones, relaciones entre variables y comunicación de hallazgos | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square) | 🔄 En expansión |
-| **[COL-MEN-STAT](https://github.com/LuisJRubioH/COL_MEN_STAT)** | Analítica de datos educativos del MEN para estudiar matrícula, cobertura, deserción y desigualdades territoriales en Colombia | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat-square&logo=scikitlearn) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi) | 🔄 En curso |
+| Proyecto | Descripción | Competencias / Stack | Estado |
+|----------|-------------|----------------------|--------|
+| **[Predicción de deserción — OULAD](https://github.com/Ori-G-A/prediccion-desercion-oulad)** | Proyecto de grado de Maestría en Ciencia de Datos orientado a identificar riesgo de deserción estudiantil mediante análisis exploratorio, calidad de datos, ingeniería de variables, clasificación supervisada e interpretabilidad de modelos | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat-square&logo=scikitlearn) ![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=flat-square) `EDA` `Data Quality` `Feature Engineering` `CRISP-DM` | 🔄 Proyecto de grado en curso |
+| **[LevelUp-ELO](https://github.com/LuisJRubioH/LevelUp-ELO)** | Plataforma educativa adaptativa que integra indicadores estadísticos de progreso, selección de retos, persistencia de datos, dashboards docentes, APIs y validaciones automatizadas | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) `APIs` `Testing` `CI/CD` `Analytics` | ✅ Funcional / en evolución |
+| **[COL-MEN-STAT](https://github.com/LuisJRubioH/COL_MEN_STAT)** | Proyecto colaborativo de analítica educativa con datos abiertos del MEN para estudiar matrícula, cobertura, deserción y desigualdades territoriales en Colombia mediante un flujo reproducible de preparación y análisis de datos | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat-square&logo=scikitlearn) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi) `ETL` `EDA` `Education Data` | 🔄 En desarrollo |
+| **[Proyectos-Portafolio](https://github.com/LuisJRubioH/Proyectos-Portafolio)** | Colección de análisis exploratorios desarrollados a partir de preguntas y datasets de distintos dominios, con énfasis en limpieza, calidad de datos, identificación de patrones y comunicación de hallazgos | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square) `EDA` `Data Cleaning` `Visualization` | 📈 Portafolio en expansión |
 
 ## 📌 Actividad Reciente
 <!--- stats & Trophy (start) -->
